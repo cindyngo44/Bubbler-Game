@@ -28,8 +28,8 @@ void setup(){
   gameStart = false;
   
   //bg sound
-  bg = new SoundFile(this, "BG_Music.wav");
-  bg.loop();
+  //bg = new SoundFile(this, "BG_Music.wav");
+  //bg.loop();
   
   //TO DO: implement these sounds
   dead = new SoundFile(this, "DeadBubble.wav");
